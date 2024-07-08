@@ -1,1 +1,7 @@
+La distribución está enfocada en valores igual a 0. 
 
+Buscamos como interpretar la distribución aplicando:
+* Filtrado de valores cero: Excluye los valores cero para centrar la atención en los valores positivos
+* Transformación logaritmica: reduce el impacto de los valores extremos y resalta la variabilidad en los valores más bajos
+* Submuestreo: reduce la cantidad de valores cero mediante un muestreo aleatorio, sin perder la parte representativa de los valores cero sin perder esta información.
+* Histogramas separados: crear dos histogramas para los valores cero y los positivos 
